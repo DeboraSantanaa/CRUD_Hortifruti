@@ -33,8 +33,8 @@ Importe o arquivo "hort.sql" para o banco de dados criado. <br>
  _______________________________________________________
  <br>
  
-### CRUD HORTIFRUTI 🍊
-CREATE, UPDATE, and DELETE
+### CRUD HORTIFRUTI 🍊  <br>
+CREATE, UPDATE, and DELETE  <br>
 The database connection is made using PDO.
  <br> <br>
 ### OBJECTIVE 🔶
