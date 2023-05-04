@@ -25,3 +25,9 @@ Importe o arquivo "hort.sql" para o banco de dados criado. <br>
 **o arquivo do banco de dados a ser importado esta presente na pagina sql deste repositorio.** <br>
 
  Execute o projeto a partir do arquivo "index.php".
+ <br>
+ <br>
+ 
+ ## Autor
+| [<img src="https://avatars.githubusercontent.com/u/113525688?v=4" width=115><br><sub>Débora Santana</sub>](https://github.com/DeboraSantanaa)
+| :---: |
