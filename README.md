@@ -1,4 +1,4 @@
-Primeiro Projeto em PHP
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76E6E&width=435&lines=Primeiro+Projeto+em+PHP)](https://git.io/typing-svg)
 <br>
 <br>
 
