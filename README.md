@@ -28,6 +28,35 @@ Importe o arquivo "hort.sql" para o banco de dados criado. <br>
  <br>
  <br>
  
- ## Autor
+ 
+ 
+ _______________________________________________________
+ <br>
+ 
+### CRUD HORTIFRUTI 🍊
+CREATE, UPDATE, and DELETE
+The database connection is made using PDO.
+ <br> <br>
+### OBJECTIVE 🔶
+To register, update, and delete products.
+ <br> <br>
+### 🔶 Installation
+To run the project, follow these steps:  <br>
+
+START Apache and MySQL if using XAMPP  <br>
+Place the file in the "htdocs" folder. <br>
+Clone the repository to your local machine. <br>
+Create a database named "hort." <br>
+Import the "hort.sql" file into the created database. <br>
+The database file to be imported is present on the SQL page of this repository. <br>
+
+Run the project from the "index.php" file.
+ <br> <br>
+
+ 
+ ## Autor / Author
 | [<img src="https://avatars.githubusercontent.com/u/113525688?v=4" width=115><br><sub>Débora Santana</sub>](https://github.com/DeboraSantanaa)
 | :---: |
+
+
+
