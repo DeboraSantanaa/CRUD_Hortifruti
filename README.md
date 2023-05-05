@@ -19,9 +19,9 @@ Para executar o projeto é necessário seguir os seguintes passos:
 1. START no APACHE e MySQL caso esteja utilizando o XAMPP <br>
 e o arquivo deve ser colocado dentro da pasta "htdocs"
 
-2.Clone o repositório para a sua máquina local. <br>
-3.Crie um banco de dados com o nome "hort" <br>
-4.Importe o arquivo "hort.sql" para o banco de dados criado. <br>
+2. Clone o repositório para a sua máquina local. <br>
+3. Crie um banco de dados com o nome "hort" <br>
+4. Importe o arquivo "hort.sql" para o banco de dados criado. <br>
 **o arquivo do banco de dados a ser importado esta presente na pagina sql deste repositorio.** <br>
 
  Execute o projeto a partir do arquivo "index.php".
@@ -43,13 +43,13 @@ To register, update, and delete products.
 ### 🔶 Installation
 To run the project, follow these steps:  <br>
 
-1.START Apache and MySQL if using XAMPP  <br>
+1. START Apache and MySQL if using XAMPP  <br>
 Place the file in the "htdocs" folder. <br>
 
 <br>
-2.Clone the repository to your local machine. <br>
-3.Create a database named "hort." <br>
-4.Import the "hort.sql" file into the created database. <br>
+2. Clone the repository to your local machine. <br>
+3. Create a database named "hort." <br>
+4. Import the "hort.sql" file into the created database. <br>
 The database file to be imported is present on the SQL page of this repository. <br>
 
 Run the project from the "index.php" file.
